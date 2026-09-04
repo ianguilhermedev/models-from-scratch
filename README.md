@@ -1,9 +1,7 @@
-# regressao-linear-sem-sklearn
+# Modelos com NumPy
 
-Esse projeto é uma implementação simples de uma regressão linear utilizando gradiente descendente.
+Esse projeto é uma implementação de LinearRegression, DecisionTree e RandomForest utilizando apenas numpy e python.
 
-O objetivo dessa implementação foi compreender como uma regressão linear funciona por debaixo dos panos, aplicando conceitos de cálculo para sua aplicação, tais como:
-- Derivadas parciais
-- Gradiente
+O objetivo foi entender como esses modelos funcionam por baixo dos panos, comparando com a sua versão no Scikit-Learn.
 
-Como forma de complemento, esse projeto funcionou como base para compreensão a programação orientada a objetos ( POO ). Ou seja, servindo como um projeto de base teórica matemática aplicada em um dos conceitos centrais de Machine Learning, a Regressão Linear.
+Como forma de complemento, esse projeto funcionou como base para compreensão a programação orientada a objetos ( POO ). Ou seja, servindo como um projeto de base teórica matemática aplicada em um dos conceitos centrais de Machine Learning.
